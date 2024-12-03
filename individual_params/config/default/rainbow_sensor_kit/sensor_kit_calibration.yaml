@@ -74,15 +74,15 @@ sensor_kit_base_link:
     x: 6.2218
     y: 1.1713
     z: 0.6566
-    roll: -0.021033
-    pitch: -0.005423
+    roll: -0.026269 #-0.021033
+    pitch: 0.017266 #0.013775 #-0.005423
     yaw: 0.701538
   lidar_right_base_link:
     x: 6.2073
     y: -1.1649
     z: 0.6494
     roll: 0.005509
-    pitch: 0.007263
+    pitch: 0.010754 #0.007263
     yaw: -0.793005
   lidar_left_rear_base_link:
     x: -2.8
